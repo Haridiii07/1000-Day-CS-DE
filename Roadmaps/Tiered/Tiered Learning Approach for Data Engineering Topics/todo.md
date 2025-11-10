@@ -1,0 +1,34 @@
+<!-- todo.md -->
+# Todo List for CS Study Schedule
+
+- [ ] Visit teachyourselfcs.com to get the topic order and resource recommendations.
+- [ ] Extract the list of topics and their recommended resources from the website.
+- [ ] Determine the order of topics as per teachyourselfcs.com. (For the 6 topics user specified)
+- [ ] **REVISED** Allocate hours PER TOPIC: Tier 1 (150h/topic), Tier 2 (75h/topic), Tier 3 (40h/topic).
+    - Programming: 40 hours
+    - Computer Architecture: 40 hours
+    - Algorithms & Data Structures: 150 hours
+    - Operating Systems: 75 hours
+    - Computer Networking: 75 hours
+    - Databases: 150 hours
+- [ ] **REVISED** Calculate the number of blocks for each topic based on new per-topic hours (1 block = 50 minutes).
+    - Programming: 48 blocks
+    - Computer Architecture: 48 blocks
+    - Algorithms & Data Structures: 180 blocks
+    - Operating Systems: 90 blocks
+    - Computer Networking: 90 blocks
+    - Databases: 180 blocks
+- [ ] Update Python script with new block counts.
+- [ ] Regenerate Markdown schedule (basic version with correct hours).
+- [ ] **NEW/Current Focus**: Break down each topic's total blocks into specific, actionable tasks (e.g., chapter sections, exercises, video segments) from the recommended resources. This requires detailed research for each of the 6 topics:
+    - [ ] Programming (SICP / Harvey Lectures) - 48 tasks
+    - [ ] Computer Architecture (CS:APP / Berkeley CS 61C) - 48 tasks
+    - [ ] Algorithms & Data Structures (ADM / Skiena Lectures) - 180 tasks
+    - [ ] Operating Systems (OSTEP / Berkeley CS 162) - 90 tasks
+    - [ ] Computer Networking (CN: Top-Down / Stanford CS 144) - 90 tasks
+    - [ ] Databases (Red Book / Berkeley CS 186) - 180 tasks
+- [ ] Update Python script to incorporate these specific tasks into the weekly schedule generation.
+- [ ] Regenerate the detailed, task-specific Markdown schedule.
+- [ ] Prepare the highly detailed schedule for user validation.
+- [ ] Add a note about the 6 topics vs 9 TYCS topics and the decision made.
+- [ ] Send revised, highly detailed schedule for validation.
