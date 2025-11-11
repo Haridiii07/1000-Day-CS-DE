@@ -1,5 +1,40 @@
 # 1000-Day Data Engineering Learning Journey
 
+---
+
+## Repository Structure
+
+```
+1000-day/
+├── README.md (this file)
+├── Roadmaps/
+│   ├── Comprehensive/
+│   │   ├── tycs-de-roadmap-143-week.md
+│   │   ├── integrated-858-day-roadmap.md
+│   │   └── integrated-145-week-roadmap-with-preflight.md
+│   ├── Accelerated/
+│   │   └── accelerated-learning-roadmap.md
+│   └── Tiered/
+│       └── Tiered Learning Approach for Data Engineering Topics/
+│           ├── programming_tasks_full.md
+│           ├── computer_architecture_tasks_full.md
+│           ├── algorithms_tasks_full.md
+│           ├── operating_systems_tasks_full.md
+│           ├── computer_networking_tasks_full.md
+│           ├── databases_tasks_full.md
+│           ├── cs_schedule_generator.py
+│           ├── cs_schedule_generator_detailed_tasks.py
+│           ├── final_cs_study_schedule_detailed.md
+│           └── coverage.md
+├── Strategies/
+│   ├── content-marketing-strategy.md
+│   └── job-application-strategy.md
+└── Tools/
+    (reserved for future tools)
+```
+
+
+
 ## Introduction & Overview
 
 This repository contains a comprehensive collection of learning roadmaps, strategies, and tools designed to transform you into a world-class Data Engineer with a deep Computer Science foundation. The journey integrates the rigorous **Teach Yourself Computer Science (TYCS)** curriculum with practical, modern Data Engineering skills.
